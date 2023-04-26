@@ -1,5 +1,7 @@
 # equim-machn-frontEnd
 
+Project is live on https://symphonious-maamoul-ad69a9.netlify.app/
+
 
 # README
 
