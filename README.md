@@ -22,7 +22,7 @@ This will install all of the required packages and modules for the application t
 To run the application, please run the following command:
 
 ```
-npm start
+npm run dev
 ```
 
 Once the application is running, you can view it in your browser by opening http://localhost:3000. 
